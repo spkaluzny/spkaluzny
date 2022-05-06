@@ -1,4 +1,4 @@
-I am statistician and former director of engineering at TIBCO Software. I have been working on systems not unlike R for over 30 years - S, S-PLUS, and TERR (TIBCO Enterprise Runtime for R).
+I am statistician and former director of engineering at TIBCO Software. I have been working on systems not unlike R for over 30 years - S, S-PLUS, and TERR (TIBCO Enterprise Runtime for R). Now devoting my time to working with R.
 
 <!--
 **spkaluzny/spkaluzny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
